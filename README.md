@@ -28,7 +28,7 @@ Heart Disease Prediction
 <br />
 <div align="center">
   <a href="https://github.com/ClassicCollins/heart-disease-prediction">
-    <img src="images/logo.png" alt="Logo" width="200" height="200">
+    <img src="images/logo.png" alt="Logo" width="600" height="200">
   </a>
 
 <h3 align="center">Heart Disease Prediction Model</h3>
@@ -43,14 +43,14 @@ Heart Disease Prediction
     ·
     <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/classic/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/classic/.github/ISSUE_TEMPLATE/feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/classic/.github/ISSUE_TEMPLATE/feature-request-form---.md">Request Feature</a>
   </p>
 </div>
 
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Click Table of Contents</summary>
+  <summary>View Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -146,10 +146,12 @@ Ensure you have Python installed and then run:
    pip install -r requirements.txt
    ```
 3. Run the Notebook: Open the notebook in Jupyter and run the cells to reproduce the analysis:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENCE -->
-## Licence
-* `MIT` Licence apply.
+## License
+* `MIT` License applies.
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
