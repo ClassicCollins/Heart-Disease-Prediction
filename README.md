@@ -41,9 +41,9 @@ Heart Disease Prediction
     <br />
     <a href="https://zindi.africa/competitions/microsoft-x-data-science-nigeria-2024-ai-bootcamp-qualification-hackathon">Participate in The Project</a>
     ·
-    <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/main/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/classic/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/main/.github/ISSUE_TEMPLATE/feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/classic/.github/ISSUE_TEMPLATE/feature-request---.md">Request Feature</a>
   </p>
 </div>
 
