@@ -106,7 +106,7 @@ Sounds interesting right? :smile:
 * `The dataset` used for this project includes various health indicators such as age, gender, blood pressure, cholesterol levels, and more.
   The data was provided by the competition organizers.
 * `Exploratory Data Analyses` was carried on the dataset to visualize it as we as to identify partterns, trend, correlation and outliers.
-* `The model` was built using several machine learning algorithms, including XGBoost, decision trees, and random forests. 
+* `The model` was built using several machine learning algorithms, including XGBoost, SVM, Decision trees, and Random forests. 
 * `Feature engineering and hyperparameter tuning` were performed to optimize the model’s performance.
 * `Evaluation` The model was evaluated using accuracy metric, however, other metrics like precision, recall, and F1-score were used to evaluate the model.
 * `Cross-validation` was also used to ensure the model’s robustness and generalizability.
@@ -116,7 +116,7 @@ Sounds interesting right? :smile:
 <!-- RESULTS -->
 ## Result
 * XGBoost outperformed other models in terms of accuracy and cross-validation scores. 
-  However, the second Random Forest model achieved the highest leaderboard score and was ultimately submitted
+  However, the SVM and Random Forest model achieved the highest leaderboard score and was ultimately submitted
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
