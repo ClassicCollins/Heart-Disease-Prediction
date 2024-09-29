@@ -27,7 +27,7 @@ Heart Disease Prediction
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ClassicCollins/heart-disease-prediction">
+  <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/classic/">
     <img src="images/logo.png" alt="Logo" width="600" height="200">
   </a>
 
