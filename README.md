@@ -1,9 +1,9 @@
 # Heart-Disease-Prediction
 Heart Disease Prediction
-<!-- Improved compatibility of back to top link: See: https://github.com/ClassicCollins/Heart-Disease-Prediction/back2top -->
+<!-- Improved compatibility of back to top link: See: https://github.com/ClassicCollins/heart-disease-prediction/back2top -->
 <a id="readme-top"></a>
 <!--
-*** Thanks for checking out Heart-Disease-Prediction project. 
+*** Thanks for checking out heart-disease-prediction project. 
 *** Thanks for checking out my project!
 -->
 
@@ -17,9 +17,6 @@ Heart Disease Prediction
 *** for stars-url, forks-url, etc.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links 
 -->
-
-
-
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
@@ -27,27 +24,26 @@ Heart Disease Prediction
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ClassicCollins/Heart-Disease-Prediction">
+  <a href="https://github.com/ClassicCollins/heart-disease-prediction">
     <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Heart Disease Prediction Model</h3>
 
   <p align="center">
-    A roject designed to spark your interest in heart disease prediction using Python.!
+    A project designed to spark your interest in heart disease prediction using Python.!
     <br />
-    <a href="https://github.com/ClassicCollins/Heart-Disease-Prediction"><strong>Explore the Model »</strong></a>
+    <a href="https://github.com/ClassicCollins/heart-disease-prediction"><strong>Explore the Model »</strong></a>
     <br />
     <br />
-    <a href="https://zindi.africa/competitions/microsoft-x-data-science-nigeria-2024-ai-bootcamp-qualification-hackathon">Participate</a>
+    <a href="https://zindi.africa/competitions/microsoft-x-data-science-nigeria-2024-ai-bootcamp-qualification-hackathon">Participate in The Project</a>
     ·
-    <a href="https://github.com/ClassicCollins/Heart-Disease-Prediction/blob/main/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/main/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/ClassicCollins/Heart-Disease-Prediction/blob/main/.github/ISSUE_TEMPLATE/feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/main/.github/ISSUE_TEMPLATE/feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -100,7 +96,6 @@ Sounds interesting right? :smile:
 * [![Python][Python-logo]][Python-url]
 * [![Pandas][Pandas-logo]][Pandas-url]
 * [![NumPy][NumPy-logo]][NumPy-url]
-* [![Cvxpy][Cvxpy-logo]][Cvxpy-url]
 * [![Matplotlib][Matplotlib-logo]][Matplotlib-url]
 * [![Seaborn][Seaborn-logo]][Seaborn-url]
 
@@ -141,7 +136,9 @@ Ensure you have Python installed and then run:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yourusername/heart-disease-prediction.git
+   git clone https://github.com/ClassicCollins/heart-disease-prediction.git
+   ```
+   ```sh
    cd heart-disease-prediction
    ```
 2. Install required packages
@@ -150,8 +147,10 @@ Ensure you have Python installed and then run:
    ```
 3. Run the Notebook: Open the notebook in Jupyter and run the cells to reproduce the analysis:
 
-
-
+<!-- LICENCE -->
+## Licence
+* `MIT` Licence apply.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
