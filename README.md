@@ -104,7 +104,8 @@ Sounds interesting right? :smile:
 <!-- STEPS and METHODOLOGY -->
 ## Steps and Method
 * `The dataset` used for this project includes various health indicators such as age, gender, blood pressure, cholesterol levels, and more.
-  The data was provided by the competition organizers and is representative of the Nigerian population.
+  The data was provided by the competition organizers.
+* `Exploratory Data Analyses` was carried on the dataset to visualize it as we as to identify partterns, trend, correlation and outliers.
 * `The model` was built using several machine learning algorithms, including XGBoost, decision trees, and random forests. 
 * `Feature engineering and hyperparameter tuning` were performed to optimize the model’s performance.
 * `Evaluation` The model was evaluated using accuracy metric, however, other metrics like precision, recall, and F1-score were used to evaluate the model.
@@ -193,7 +194,7 @@ Don't forget to give the project a star! Thanks again!
 [forks-shield]: https://img.shields.io/github/forks/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
 [forks-url]: https://github.com/ClassicCollins/heart-disease-prediction/forks
 [stars-shield]: https://img.shields.io/github/stars/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
-[stars-url]: https://github.com/ClassicCollins/portfolio-optimization/stargazers
+[stars-url]: https://github.com/ClassicCollins/heart-disease-prediction/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
 [issues-url]: https://github.com/ClassicCollins/heart-disease-prediction/issues
 [license-shield]: https://img.shields.io/github/license/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
