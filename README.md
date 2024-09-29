@@ -28,7 +28,7 @@ Heart Disease Prediction
 <br />
 <div align="center">
   <a href="https://github.com/ClassicCollins/heart-disease-prediction/blob/classic/image/logo.png">
-    <img src="images/logo.png" alt="Logo" width="600" height="200">
+    <img src="image/logo.png" alt="Logo" width="600" height="200">
   </a>
 
 <h3 align="center">Heart Disease Prediction Model</h3>
@@ -200,7 +200,7 @@ Don't forget to give the project a star! Thanks again!
 [license-url]: https://github.com/ClassicCollins/heart-disease-prediction/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://linkedin.com/in/collins-ugwuozor
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: image/screenshot.png
 [Python-logo]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB
 [Python-url]: https://www.python.org/
 [Pandas-logo]: https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=blue
