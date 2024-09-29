@@ -182,20 +182,20 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
-[contributors-url]: https://github.com/ClassicCollins/portfolio-optimization/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
+[contributors-url]: https://github.com/ClassicCollins/heart-disease-prediction/contributors
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=x&colorB=555
 [twitter-url]: https://x.com/ClassicCollins2
-[traffic-shield]: https://img.shields.io/github/traffic/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
-[traffic-url]: https://github.com/ClassicCollins/portfolio-optimization/traffic
-[forks-shield]: https://img.shields.io/github/forks/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
-[forks-url]: https://github.com/ClassicCollins/portfolio-optimization/forks
-[stars-shield]: https://img.shields.io/github/stars/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
+[traffic-shield]: https://img.shields.io/github/traffic/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
+[traffic-url]: https://github.com/ClassicCollins/heart-disease-prediction/traffic
+[forks-shield]: https://img.shields.io/github/forks/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
+[forks-url]: https://github.com/ClassicCollins/heart-disease-prediction/forks
+[stars-shield]: https://img.shields.io/github/stars/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
 [stars-url]: https://github.com/ClassicCollins/portfolio-optimization/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
-[issues-url]: https://github.com/ClassicCollins/portfolio-optimization/issues
-[license-shield]: https://img.shields.io/github/license/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
-[license-url]: https://github.com/ClassicCollins/portfolio-optimization/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
+[issues-url]: https://github.com/ClassicCollins/heart-disease-prediction/issues
+[license-shield]: https://img.shields.io/github/license/ClassicCollins/heart-disease-prediction.svg?style=for-the-badge
+[license-url]: https://github.com/ClassicCollins/heart-disease-prediction/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://linkedin.com/in/collins-ugwuozor
 [product-screenshot]: images/screenshot.png
