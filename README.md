@@ -103,9 +103,25 @@ Sounds interesting right? :smile:
 
 <!-- STEPS and METHODOLOGY -->
 ## Steps and Method
-* `The dataset` used for this project includes various health indicators such as age, gender, blood pressure, cholesterol levels, and more.
-  The data was provided by the competition organizers.
-* `Exploratory Data Analyses` was carried on the dataset to visualize it as we as to identify partterns, trend, correlation and outliers.
+* `The dataset` used for this project includes various health indicators such as
+- Id/id: Identifier of the individual.
+- Age: Age of the individual.
+- Sex: Gender (0 = female, 1 = male).
+- cp: Chest pain type (categorical).
+- trestbps: Resting blood pressure.
+- chol: Serum cholesterol in mg/dl.
+- fbs: Fasting blood sugar > 120 mg/dl (1 = true, 0 = false).
+- restecg: Resting electrocardiographic results (categorical).
+- thalach: Maximum heart rate achieved.
+- exang: Exercise induced angina (1 = yes, 0 = no).
+- oldpeak: ST depression induced by exercise relative to rest.
+- slope: Slope of the peak exercise ST segment.
+- ca: Number of major vessels (0-4) colored by fluoroscopy.
+- thal: Thalassemia (categorical).
+- target (train only): Presence of heart disease (0 = no, 1 = yes).
+* The data was provided by the competition organizers.
+* `Data cleaning, preprocessing, and validation` were performed to ensure there were no duplicates or missing values, and that the data was in    the correct format.
+* `Exploratory Data Analysis` was conducted on the dataset to visualize it and identify patterns, trends, correlations, and outliers
 * `The model` was built using several machine learning algorithms, including XGBoost, SVM, Decision trees, and Random forests. 
 * `Feature engineering and hyperparameter tuning` were performed to optimize the model’s performance.
 * `Evaluation` The model was evaluated using accuracy metric, however, other metrics like precision, recall, and F1-score were used to evaluate the model.
@@ -114,10 +130,12 @@ Sounds interesting right? :smile:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- RESULTS -->
-## Result
-* XGBoost outperformed other models in terms of accuracy and cross-validation scores. 
-  However, the SVM and Random Forest model achieved the highest leaderboard score and was ultimately submitted
-
+## Results
+* XGBoost demonstrated superior accuracy compared to other models, but it likely overfitted the data.
+* The SVM Classifier achieved the highest leaderboard score, followed by Random Forest, and was ultimately submitted.
+* Unfortunately, I forgot to uncheck the low score from Random Forest, which negatively impacted my leaderboard ranking.
+* This was one of the key lessons I learned from the hackathon.
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
