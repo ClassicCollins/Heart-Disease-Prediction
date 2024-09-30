@@ -14,6 +14,6 @@ Include a basic example or links here.
 ### Motivation
 Why are we doing this? 
 What use cases does it support? 
-How will it improve our portfolio?
+How will it improve heart disease prediction?
 What is the expected outcome?
 
