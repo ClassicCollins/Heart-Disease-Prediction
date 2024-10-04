@@ -178,7 +178,7 @@ Ensure you have Python installed and then run:
 
 Collins Emezie Ugwuozor - [@twitter_handle](https://x.com/ClassicCollins2) - ugwuozorcollinsemezie@gmail.com
 
-Project Link: [https://github.com/ClassicCollins/Heart-Disease-Prediction](https://github.com/ClassicCollins/heart-disease-prediction)
+Project Link: [Heart_Disease_Prediction_Project](https://www.datascienceportfol.io/collinsugwuozor/projects/6)
 
 Don't forget to give the project a star! Thanks again!
 
