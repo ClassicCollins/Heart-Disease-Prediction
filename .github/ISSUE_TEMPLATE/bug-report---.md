@@ -1,5 +1,5 @@
 ---
-name: "Feature request \U0001F680"
+name: "Feature request format \U0001F680"
 about: Suggest an idea
 labels: enhancement
 
@@ -14,6 +14,6 @@ Include a basic example or links here.
 ### Motivation
 Why are we doing this? 
 What use cases does it support? 
-How will it improve heart disease prediction?
+How will it improve disease prediction?
 What is the expected outcome?
 
