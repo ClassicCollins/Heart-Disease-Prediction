@@ -135,7 +135,7 @@ Sounds interesting right? :smile:
 * The SVM Classifier achieved the highest leaderboard score, followed by Random Forest, and was ultimately submitted.
 * I forgot to uncheck the low score from Random Forest, which negatively impacted my leaderboard ranking.
 * This was one of the key lessons I learned from the hackathon.
-* Fortunately, DSN reviewed our code and I was selected as one of the top candidate to attend `2024 Bootcamp` and contribute to Development of AI in Africa
+* Fortunately, DSN reviewed our codes and I was selected as one of the top candidate to attend `2024 Bootcamp` and contribute to Development of AI in Africa
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
