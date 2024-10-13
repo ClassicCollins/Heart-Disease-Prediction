@@ -177,7 +177,7 @@ Ensure you have Python installed and then run:
 <!-- CONTACT -->
 ## Contact
 
-Collins Emezie Ugwuozor - [@twitter_handle](https://x.com/ClassicCollins2) - ugwuozorcollinsemezie@gmail.com
+Collins Emezie Ugwuozor - [@ClassicCollins2](https://x.com/ClassicCollins2) - ugwuozorcollinsemezie@gmail.com
 
 Project Link: [Heart_Disease_Prediction_Project](https://www.datascienceportfol.io/collinsugwuozor/projects/6)
 
