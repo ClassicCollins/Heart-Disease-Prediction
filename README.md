@@ -220,7 +220,7 @@ Don't forget to give the project a star! Thanks again!
 [license-url]: https://github.com/ClassicCollins/heart-disease-prediction/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://linkedin.com/in/collins-ugwuozor
-[product-screenshot]: image/screenshot1.png
+[product-screenshot]: image/screenshot.png
 [Python-logo]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB
 [Python-url]: https://www.python.org/
 [Pandas-logo]: https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=blue
